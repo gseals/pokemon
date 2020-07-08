@@ -25,13 +25,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-Landing Page
+### Landing Page
 ![Landing Page](https://raw.githubusercontent.com/gseals/pokemon/master/screenshots/Landing%20Page.png)
 
-Card Hover
+### Card Hover
 ![Card Hover](https://raw.githubusercontent.com/gseals/pokemon/master/screenshots/Card%20Hover.png)
 
-Responsive/Mobile
+### Responsive/Mobile
 ![Responsive/Mobile](https://raw.githubusercontent.com/gseals/pokemon/master/screenshots/Responsive%3AMobile.png)
 
 ## How to Run
