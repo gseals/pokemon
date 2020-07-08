@@ -12,6 +12,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies Used
 
+graphQL
+apollo/react hooks
+apollo boost
+graphql
+graphql-tag
+
+using this database? https://graphql-pokemon.now.sh/
+
+** add ESLint and format
+
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 * [HTML5](https://html.spec.whatwg.org/multipage/)
 * [JavaScript](https://www.javascript.com/)
