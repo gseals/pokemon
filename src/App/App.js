@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   const client = new ApolloClient({
-    uri: 'https://graphql-pokemon.now.sh/',
+    uri: 'https://graphql-pokemon2.vercel.app/',
   });
 
   return (
