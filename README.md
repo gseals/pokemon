@@ -1,5 +1,3 @@
-THIS PROJECT IS CURRENTLY NON-OPERATIONAL.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) following this [tutorial](https://youtu.be/yKFoAF7J0mc).
 
 # React Pokemon version 1
