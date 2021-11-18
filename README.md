@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-* This application utilizes this [GraphQL interface](https://graphql-pokemon.now.sh/) to retrieve data on all 151 original Pokémon. Each Pokémon's name, image, max HP and CP, type, and attacks are listed on their respective cards.
+* This application utilizes this [GraphQL interface](https://graphql-pokemon2.vercel.app/) to retrieve data on all 151 original Pokémon. Each Pokémon's name, image, max HP and CP, type, and attacks are listed on their respective cards.
 
 ## Demo Link
 
